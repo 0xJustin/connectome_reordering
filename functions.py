@@ -56,7 +56,7 @@ def calculate_metric(
 
 @jax.jit
 def objective_function(
-    relu_weight, positions, beta, source_indices, target_indices, edge_weights, ranks
+    relu_weight, positions, beta, source_indices, target_indices, edge_weights,
 ):
     # Project each neuron embedding onto the learnable direction w
     proj_source = positions[source_indices]
