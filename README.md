@@ -1,3 +1,8 @@
+Colab Link for Monte-Carlo reordering:
+<a target="_blank" href="https://colab.research.google.com/github/0xJustin/connectome_reordering/blob/main/reorder.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 Heavily inspired by "Connectivity Matrix Seriation via Relaxation" by Alexander Borst: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011904
 
 # **Maximally Feedforward Neuron Ordering using JAX**
